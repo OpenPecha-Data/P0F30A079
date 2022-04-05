@@ -1,0 +1,33 @@
+id: P0F30A079
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA00CHZ0103341
+  instance_id: http://purl.bdrc.io/resource/IE00KG09730
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རྒྱལ་རབས་གསལ་བའི་མེ་ལོང་།
+  alt_title:
+    en-x-mixed:
+    - Rgyal rabs gsal baʼi me loṅ /Sa-skya Bsod-nams-rgyal-mtshan gyis brtsams.
+    zh-latn-pinyin-x-ndia:
+    - xi zang wang tong ji
+  author: http://purl.bdrc.io/resource/P1226
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    377da6836af649029d3ae0daa77ca222:
+      title: པོད ༡་རྒྱལ་རབས་གསལ་བའི་མེ་ལོང
+      volume_number: 1
+      base_file: UT00KG09730_I00KG09774_0000.txt
+      reference: http://purl.bdrc.io/resource/VLB30012C4BA911048
+      image_group: I00KG09774
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W00KG09730
+  - http://purl.bdrc.io/resource/MW00KG09730
+  ocr_software: Namsel
+created_at: '2021-12-22T10:20:59.534157'
+last_modified_at: '2021-12-22T10:20:59.534164'
